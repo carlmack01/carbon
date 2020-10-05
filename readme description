@@ -1,0 +1,5 @@
+●	Used multiple regression analyses of carbon emissions data from US states and compared to prices on emissions, outdoor recreation, and population. 
+We found that there were minor correlations between the price placed on carbon emissions and the decreasing of emissions themselves.  It was also found
+that states that value outdoor recreation had a smaller level of carbon emissions as well.  For population, there was little relationship shown.
+●	Subject Matter Expert and Analyst.  Collected and cleaned data, ran analysis, and wrote conclusions.
+●	Used Excel and Python Pandas and Matplotlib, analyzing data from EIA, RGGI, Census, and others.
